@@ -1,0 +1,5 @@
+x=input("Enter a string: ")
+f=open("String.txt","w")
+f.write(x)
+f.close()
+print("String written to file 'String.txt' Successfully")
