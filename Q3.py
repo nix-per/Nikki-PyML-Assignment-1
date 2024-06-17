@@ -1,3 +1,5 @@
+# Q3. Write a python program that calculates the factorial of a given number
+
 x=int(input("Enter the number: "))
 fac=1
 if(x==0 or x==1):
