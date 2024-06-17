@@ -1,3 +1,5 @@
+# Q6. Write a program that reads the content of a text file and prints it to the console
+
 try:
     with open("String.txt", "r") as f:                         # Attempt to open the file in read mode
         a = f.read()
